@@ -1,0 +1,14 @@
+{
+  "name": "erc721beyond",
+  "version": "0.0.1",
+  "description": "ERC721Beyond smart contracts",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-solhint": "^3.0.1",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@graphprotocol/hardhat-graph": "^0.1.0-alpha.2"
+  }
+}
